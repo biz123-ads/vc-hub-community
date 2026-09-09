@@ -6,7 +6,7 @@ Browse the catalog, try components before using them, and copy code or a prompt 
 
 ### [Explore VC Hub →](https://vc-hub.dev)
 
-[Components](https://vc-hub.dev/#browse) · [Themes](https://vc-hub.dev/themes) · [Icons](https://vc-hub.dev/icons)
+[Components](https://vc-hub.dev/#browse) · [Themes](https://vc-hub.dev/themes)
 
 [![A quick visual tour of VC Hub: background components, live preview controls, and color themes](./assets/vc-hub-demo.gif)](https://vc-hub.dev)
 
